@@ -1,0 +1,17 @@
+.videoItem {
+  display: flex !important;
+}
+
+.videoItem .header{
+  color: #ffffff !important;
+}
+
+.videoItem .content {
+  padding: 4px;
+  color: #aaaaaa !important;
+}
+
+.videoItem img {
+  max-width: 185px !important;;
+  
+}

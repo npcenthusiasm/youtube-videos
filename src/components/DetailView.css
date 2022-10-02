@@ -1,0 +1,14 @@
+.detailView .content .header,
+.detailView .content .description {
+  color: #ffffff;
+}
+
+.detailView-content {
+  margin-top: 20px;
+  font-weight: 500;
+}
+
+.detailView-content .header{
+  margin-bottom: 20px;
+  font-size: 24px;
+}
